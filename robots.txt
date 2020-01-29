@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahcohahpe.johnny.engineer/sitemap.xml
